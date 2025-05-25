@@ -1,9 +1,7 @@
-```
-Name : Surya Prakash B
-REG-NO : 212224230281
-Date : 03-05-2025
-```
-# EXPT 5 : Multiple server with infinite capacity - (M/M/c):(oo/FIFO)
+## Multiple server with infinite capacity - (M/M/c):(oo/FIFO)
+## Nmae  :AGASH S
+## Reg No:212224040014
+##
 
 ## Aim :
 To find (a) average number of materials in the system (b) average number of materials in the conveyor (c) waiting time of each material in the system (d) waiting time of each material in the conveyor, if the arrival  of materials follow poisson process with the mean interval time 10 seconds, serivice time of two lathe machine follow exponential distribution with mean serice time 1 second and average service time of robot is 7seconds.
